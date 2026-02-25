@@ -56,8 +56,8 @@ Installing collected packages: fastjsonschema, traitlets, rpds-py, platformdirs,
 [2K  Attempting uninstall: jupyter-core
 [2K    Found existing installation: jupyter_core 5.9.1
 [2K    Uninstalling jupyter_core-5.9.1:
-[2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K      Successfully uninstalled jupyter_core-5.9.1
-   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K  Attempting uninstall: jsonschema-specifications
+[2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K      Successfully uninstalled jupyter_core-5.9.1
+   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K  Attempting uninstall: jsonschema-specifications
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Found existing installation: jsonschema-specifications 2025.9.1
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Uninstalling jsonschema-specifications-2025.9.1:
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K      Successfully uninstalled jsonschema-specifications-2025.9.1

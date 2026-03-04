@@ -5,3 +5,6 @@
 # Ignore the data files
 diabetic_data.csv
 IDS_mapping.csv
+
+catboost_info
+gender_histogram.html

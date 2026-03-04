@@ -37,26 +37,26 @@ Installing collected packages: fastjsonschema, traitlets, rpds-py, platformdirs,
 [2K    Found existing installation: traitlets 5.14.3
 [2K    Uninstalling traitlets-5.14.3:
 [2K      Successfully uninstalled traitlets-5.14.3
-[2K  Attempting uninstall: rpds-py
-[2K    Found existing installation: rpds-py 0.30.0
-[2K    Uninstalling rpds-py-0.30.0:
-[2K      Successfully uninstalled rpds-py-0.30.0
-[2K  Attempting uninstall: platformdirs
-[2K    Found existing installation: platformdirs 4.9.2
-[2K    Uninstalling platformdirs-4.9.2:
-[2K      Successfully uninstalled platformdirs-4.9.2
-[2K  Attempting uninstall: attrs
-[2K    Found existing installation: attrs 25.4.0
-[2K    Uninstalling attrs-25.4.0:
-[2K      Successfully uninstalled attrs-25.4.0
-[2K  Attempting uninstall: referencing
-[2K    Found existing installation: referencing 0.37.0
-[2K    Uninstalling referencing-0.37.0:
-[2K      Successfully uninstalled referencing-0.37.0
-[2K  Attempting uninstall: jupyter-core
-[2K    Found existing installation: jupyter_core 5.9.1
-[2K    Uninstalling jupyter_core-5.9.1:
-[2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K      Successfully uninstalled jupyter_core-5.9.1
+[2K   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K  Attempting uninstall: rpds-py
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K    Found existing installation: rpds-py 0.30.0
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K    Uninstalling rpds-py-0.30.0:
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K      Successfully uninstalled rpds-py-0.30.0
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K  Attempting uninstall: platformdirs
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K    Found existing installation: platformdirs 4.9.2
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K    Uninstalling platformdirs-4.9.2:
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K      Successfully uninstalled platformdirs-4.9.2
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K  Attempting uninstall: attrs
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K    Found existing installation: attrs 25.4.0
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K    Uninstalling attrs-25.4.0:
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K      Successfully uninstalled attrs-25.4.0
+   [91m━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 1/10[0m [traitlets][2K   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K  Attempting uninstall: referencing
+   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K    Found existing installation: referencing 0.37.0
+   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K    Uninstalling referencing-0.37.0:
+   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K      Successfully uninstalled referencing-0.37.0
+   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K  Attempting uninstall: jupyter-core
+   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K    Found existing installation: jupyter_core 5.9.1
+   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K    Uninstalling jupyter_core-5.9.1:
+   [91m━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━[0m [32m 4/10[0m [attrs][2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K      Successfully uninstalled jupyter_core-5.9.1
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K  Attempting uninstall: jsonschema-specifications
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Found existing installation: jsonschema-specifications 2025.9.1
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Uninstalling jsonschema-specifications-2025.9.1:
@@ -65,9 +65,9 @@ Installing collected packages: fastjsonschema, traitlets, rpds-py, platformdirs,
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Found existing installation: jsonschema 4.26.0
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Uninstalling jsonschema-4.26.0:
    [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K      Successfully uninstalled jsonschema-4.26.0
-   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K  Attempting uninstall: nbformat
-   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Found existing installation: nbformat 5.10.4
-   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K    Uninstalling nbformat-5.10.4:
-   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K      Successfully uninstalled nbformat-5.10.4
-   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10/10[0m [nbformat]
+   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━[0m [32m 6/10[0m [jupyter-core][2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━[0m [32m 8/10[0m [jsonschema][2K  Attempting uninstall: nbformat
+   [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━[0m [32m 8/10[0m [jsonschema][2K    Found existing installation: nbformat 5.10.4
+   [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━[0m [32m 8/10[0m [jsonschema][2K    Uninstalling nbformat-5.10.4:
+   [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━[0m [32m 8/10[0m [jsonschema][2K      Successfully uninstalled nbformat-5.10.4
+   [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━[0m [32m 8/10[0m [jsonschema][2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━[0m [32m 9/10[0m [nbformat][2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10/10[0m [nbformat]
 [?25h[1A[2KSuccessfully installed attrs-25.4.0 fastjsonschema-2.21.2 jsonschema-4.26.0 jsonschema-specifications-2025.9.1 jupyter-core-5.9.1 nbformat-5.10.4 platformdirs-4.9.2 referencing-0.37.0 rpds-py-0.30.0 traitlets-5.14.3
